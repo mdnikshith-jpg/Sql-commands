@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.idea/
+.vscode/
+*.swp
+
+# Local environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# MySQL local files
+*.log
+*.err
+
+# Temporary files
+*.tmp
+*.temp
